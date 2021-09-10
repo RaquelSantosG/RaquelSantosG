@@ -1,8 +1,8 @@
 ### Olá eu sou a Raquel dos Santos 👋
 
+- 🧠faculdade de sistemas de informação
 
-- 🌱 Estudando faculdade de Sistemas de Informação
-- 🌱 Estudando curso de Desenvolvedora Java Jr
+- 🌱 Estudando curso de Desenvolvedora Java Jnr
 - 😊 Pronome(Ela/Dela)
 
 
