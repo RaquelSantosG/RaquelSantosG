@@ -2,7 +2,7 @@
 
 - 🧠faculdade de sistemas de informação
 
-- 🌱 Estudando curso de Desenvolvedora Java Jnr
+- 🌱 Estudando curso de Desenvolvedora Java full stack junior
 - 😊 Pronome(Ela/Dela)
 
 
