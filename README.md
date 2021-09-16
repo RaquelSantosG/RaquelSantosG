@@ -1,7 +1,7 @@
 ### Olá eu sou a Raquel dos Santos 👋
 
 - 🧠 faculdade de sistemas de informação
-- 🌱 Atualmente estou estudando Java Full Stack na Generation 
+- 🌱 Atualmente estou fazendo o Bootcamp na Generation Brasil
 - 📫 Como entrar em contato comigo: Raquelnew3@gmail.com
 - 😊 Pronome(Ela/Dela)
 
