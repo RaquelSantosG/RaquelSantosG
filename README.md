@@ -1,8 +1,7 @@
 ### Olá eu sou a Raquel dos Santos 👋
 
 - 🧠faculdade de sistemas de informação
-
-- 🌱 Estudando curso de Desenvolvedora Java full stack junior
+- 🌱 Atualmente estou estudando Java Full Stack na Generation Brasil
 - 😊 Pronome(Ela/Dela)
 
 
