@@ -17,3 +17,5 @@
    <img align = "right" alt = "Raquel" src = "https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+
+![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
