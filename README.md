@@ -9,8 +9,7 @@
   <a href="https://github.com/RaquelSantosG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelSantosG&show_icons=false&theme=dracula&include_all_commits=false&count_private=true"/
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelSantosG&layout=compact&langs_count=1&theme=dracula"/
-<div> 
- <a href="https://www.instagram.com/Raquelnew" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.instagram.com/Raquelnew" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/raquel-santos-gomes-b21318187" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
