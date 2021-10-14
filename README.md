@@ -20,6 +20,20 @@
   <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />  
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+  
+
+    Dev me = new Dev();
+
+    me.name = "Raquel S Gomes";
+    me.years = 30;
+    me.nicknames = "kel";
+    me.applications = "Java, HTML,
+                        SQL, JavaScript, TypeScript";
+    me.tools = "Git, VSCode, Eclipse, MySQL, 
+                    Spring Boot, Insomnia";
+    me.skills = "FullStack, SoftSkills";
+}
+
 
 
 ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
