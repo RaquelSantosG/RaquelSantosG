@@ -5,7 +5,7 @@
 ### Olá eu sou a Raquel dos Santos 👋
 
 - 🧠 faculdade de sistemas de informação
-- 🌱 Atualmente estou fazendo o Bootcamp na Generation Brasil              <img align='right' src="https://media.giphy.com/media/zMaCuiamKtuMM/giphy.gif" width="300">
+- 🌱 Atualmente estou fazendo o Bootcamp na Generation Brasil              <img align='right' src="" width="300">
 - 📫 Como entrar em contato comigo: Raquelnew3@gmail.com
 - 😊 Pronome(Ela/Dela)
 
